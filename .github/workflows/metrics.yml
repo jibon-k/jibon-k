@@ -17,8 +17,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          base: header, activity
+          base: header
           config_timezone: Asia/Dhaka
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_languages_skipped: swot
+          plugin_languages_skipped: swot, notes-morphe-patches
