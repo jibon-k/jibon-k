@@ -19,7 +19,4 @@ Interested in numerical methods for differential equations and numerical linear 
 - [fortran-lab](https://github.com/jibon-k/fortran-lab): ODE solvers, root finding and linear systems in Fortran
 - [Numerical-Algorithms](https://github.com/jibon-k/Numerical-Algorithms): Python programs from Numerical Analysis I
 
-<p>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=jibon-k&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,issues" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibon-k&layout=compact&langs_count=6&hide_border=true&exclude_repo=swot" />
-</p>
+<img src="metrics.svg" />
